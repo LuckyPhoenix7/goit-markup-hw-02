@@ -82,12 +82,15 @@ body {
   font-style: normal;
 }
 
-.contact {
+.email,
+.tel {
   color: inherit;
 }
 
-.contact:hover,
-.contact:focus {
+.email:hover,
+.email:focus,
+.tel:hover,
+.tel:focus {
   color: var(--color-ocean);
 }
 
