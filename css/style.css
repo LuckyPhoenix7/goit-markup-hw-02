@@ -114,6 +114,7 @@ body {
 
   font-family: inherit;
   font-weight: 500;
+  font-size: inherit;
   line-height: 1.5;
   letter-spacing: 0.04em;
   display: flex;
@@ -158,6 +159,8 @@ body {
 /* Text */
 
 .text {
+  color: inherit;
+
   font-size: 12px;
   line-height: 1.16;
   letter-spacing: 0.04em;
@@ -170,6 +173,7 @@ body {
   font-weight: 700;
   line-height: 1.07;
   text-align: center;
+  letter-spacing: inherit;
 }
 
 .section-title {
@@ -178,7 +182,9 @@ body {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
+  text-align: center;
   text-transform: capitalize;
+  letter-spacing: inherit;
 }
 
 .header-3 {
@@ -187,6 +193,7 @@ body {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
+  letter-spacing: inherit;
 }
 
 .footer-text {
