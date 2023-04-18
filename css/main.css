@@ -101,6 +101,10 @@ body {
   background-color: var(--color-cloud);
 }
 
+.team-back {
+  background-color: var(--color-white);
+}
+
 .footer {
   background-color: var(--color-navy-blue);
   color: var(--color-cloud);
