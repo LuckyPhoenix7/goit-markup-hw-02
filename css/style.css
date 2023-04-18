@@ -79,9 +79,12 @@ body {
   border-radius: 2px;
 }
 
+.contact-text {
+  font-style: normal;
+}
+
 .contact {
   color: inherit;
-  font-style: normal;
 }
 
 .contact:hover,
