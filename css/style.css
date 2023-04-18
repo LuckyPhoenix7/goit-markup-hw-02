@@ -16,7 +16,7 @@
 
 body {
   background: var(--color-white);
-  color: var(--color-navy-blue);
+  color: var(--color-slate);
 
   font-family: Roboto, sans-serif;
   line-height: 1.5;
@@ -32,7 +32,7 @@ body {
   font-family: Raleway, sans-serif;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.33;
+  line-height: 1.17;
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
@@ -47,7 +47,7 @@ body {
 .logo-footer-left {
   color: var(--color-iris);
 
-  font-family: 'Raleway';
+  font-family: Raleway, sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -65,7 +65,7 @@ body {
 /* Link */
 
 .link {
-  color: inherit;
+  color: var(--color-navy-blue);
   text-decoration: none;
 }
 
@@ -84,8 +84,7 @@ body {
 }
 
 .contact {
-  color: var(--color-slate);
-
+  color: inherit;
   font-style: normal;
   text-decoration: none;
 }
@@ -164,8 +163,6 @@ body {
 /* Text */
 
 .text {
-  color: var(--color-slate);
-
   font-size: 12px;
   line-height: 1.16;
   letter-spacing: 0.04em;
@@ -181,6 +178,8 @@ body {
 }
 
 .section-title {
+  color: var(--color-navy-blue);
+
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -188,6 +187,8 @@ body {
 }
 
 .header-3 {
+  color: var(--color-navy-blue);
+
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
