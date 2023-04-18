@@ -37,7 +37,6 @@ body {
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  text-decoration: none;
 }
 
 .logo-right {
@@ -55,7 +54,6 @@ body {
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  text-decoration: none;
 }
 
 .logo-footer-right {
@@ -73,7 +71,6 @@ body {
   color: var(--color-navy-blue);
 
   font-weight: 500;
-  text-decoration: none;
 }
 
 .nav-text:hover,
@@ -86,7 +83,6 @@ body {
 .contact {
   color: inherit;
   font-style: normal;
-  text-decoration: none;
 }
 
 .contact:hover,
