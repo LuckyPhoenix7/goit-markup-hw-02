@@ -164,14 +164,6 @@ body {
 /* Text */
 
 .text {
-  color: inherit;
-
-  font-size: 12px;
-  line-height: 1.16;
-  letter-spacing: 0.04em;
-}
-
-.portfolio-text {
   color: var(--color-slate);
 
   font-size: 16px;
